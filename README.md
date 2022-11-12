@@ -1,4 +1,7 @@
 # IBM-Project-7252-1658850839
+<p align="center">
+<img src="https://github.com/IBM-EPBL/IBM-Project-7252-1658850839/blob/main/IBM-NALAYATHIRAN/Final%20Deliverables/Intelligent%20Vehicle%20Damage%20Assessment%20%26%20Cost%20Estimator%20For%20Insurance%20Companies/IBM.png" width="600">
+</p>
 <h1>Intelligent Vehicle Damage Assessment &amp; Cost Estimator for Insurance Companies</h1>
 
 # About Project
@@ -26,4 +29,6 @@ Vehicle damage detection is used to reduce claims leakage during insurance proce
 
 # 
 ![](https://github.com/IBM-EPBL/IBM-Project-7252-1658850839/blob/main/IBM-NALAYATHIRAN/Pre-Development/Project%20Design%20Phase%202/arch.png)
+
+#
 
